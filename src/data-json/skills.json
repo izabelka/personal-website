@@ -1,0 +1,19 @@
+[
+  {
+    "skillName": "HTML5",
+    "skillLevel": "4"
+  },
+  {
+    "skillName": "CSS3",
+    "skillLevel": "3"
+  },
+  {
+    "skillName": "JavaScript",
+    "skillLevel": "3"
+  },
+  {
+    "skillName": "React",
+    "skillLevel": "2"
+  }
+
+]
